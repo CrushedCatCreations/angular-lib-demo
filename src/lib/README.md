@@ -1,6 +1,6 @@
 # Crushed Cat Creations - Angular library
 
-This library contains all graphic components, useful plugins and utilities you need to make a cool Angular app.
+This library contains graphic components, useful plugins and utilities to make a cool Angular app.
 
 ## Dependencies
 
