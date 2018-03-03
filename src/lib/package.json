@@ -1,0 +1,14 @@
+{
+    "name": "ccc-ng-lib",
+    "version": "0.0.1",
+    "author": {
+        "name": "Hubert GROSSIN",
+        "email": "cruchedcatcrea@gmail.com"
+    },
+    "keywords": [
+        "angular",
+        "components",
+        "frontend"
+    ],
+    "license": "MIT"
+}
